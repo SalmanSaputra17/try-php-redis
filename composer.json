@@ -1,0 +1,8 @@
+{
+    "name": "salmansaputra/php-redis",
+    "description": "try redis using php",
+    "require": {
+        "altorouter/altorouter": "^2.0",
+        "guzzlehttp/guzzle": "^6.5"
+    }
+}
